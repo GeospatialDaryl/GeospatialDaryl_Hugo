@@ -1,0 +1,3 @@
+[submodule "Github/public"]
+	path = Github/public
+	url = https://github.com/GeospatialDaryl/GeospatialDaryl.github.io
